@@ -1,0 +1,23 @@
+{
+  "name": "interactive-console-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unidrelyn/interactive-console-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unidrelyn/interactive-console-/issues"
+  },
+  "homepage": "https://github.com/unidrelyn/interactive-console-#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
